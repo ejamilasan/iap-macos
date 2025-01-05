@@ -14,7 +14,7 @@
     ```bash
     gcloud auth application-default login
     ```
-2. run ``./iap.sh`
+2. run `./iap.sh`
     * To connect to a VM:
         ```bash
         ./iap.sh rdp <vm name> <zone> <project>
