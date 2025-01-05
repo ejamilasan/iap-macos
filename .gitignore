@@ -1,0 +1,4 @@
+# outputs
+*.db
+*.venv
+*nohup.out
